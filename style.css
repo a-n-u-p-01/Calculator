@@ -28,7 +28,7 @@ body {
     position: fixed;
     top: 21vh;
     right: 35%;
-    background-image: url(/logo-no-background.png);
+    background-image: url(logo-no-background.png);
     background-size: cover;
     background-position: center;
     width: 2rem;
@@ -98,7 +98,6 @@ input{
 }
 button:hover{
  background-color: black;
- cursor: pointer;
 }
 
 
